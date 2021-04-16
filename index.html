@@ -97,8 +97,20 @@
         <p>My Projects</p>
       </header>
       <div class="row p-0">           
-        <div class="col-lg-3 col-md-4 col-6 p-0"><a href="img/portfolio-1.jpg" data-lightbox="image-1" data-title="Pokemon Nuzlocke Tracker - Django PostgreSQL" class="d-block"><img src="img/portfolio-1.jpg" alt="..." class="img-fluid d-block mx-auto"></a></div>
-        <div class="col-lg-3 col-md-4 col-6 p-0"><a href="img/portfolio-2.jpg" data-lightbox="image-1" data-title="Wayfarer - Django PostgreSQL - Collabrative Project" class="d-block"><img src="img/portfolio-2.jpg" alt="..." class="img-fluid d-block mx-auto"></a></div>
+        <div class="col-lg-3 col-md-4 col-6 ">
+          <a href="img/portfolio-1.jpg" data-lightbox="image-1" data-title="Pokemon Nuzlocke Tracker - Django PostgreSQL" class="d-block">
+            <img src="img/portfolio-1.jpg" alt="..." class="img-fluid d-block mx-auto">
+          </a>
+          <p> Pokemon Nuzlocke Tracker - Django PostgreSQL</p>
+          <p>This is a tool for users to keep track of their Pokemon Nuzlocke runs. Users may look up information on individual pokemon, keep a list of caught pokemon, and keep track of that pokemon's status</p>
+        </div>
+          <div class="col-lg-3 col-md-4 col-6">
+          <a href="img/portfolio-2.jpg" data-lightbox="image-1" data-title="Wayfarer - Django PostgreSQL - Collabrative Project" class="d-block">
+            <img src="img/portfolio-2.jpg" alt="..." class="img-fluid d-block mx-auto">
+          </a>
+          <p>Wayfarer - Django PostgreSQL - Collabrative Project</p>
+          <p>Wayfarer is a website where a user can create a profile and search for urban cities across the world. The user may leave a review for a city, and see other users' reviews listed in order from newest to oldest.</p>
+        </div>
         
         
       </div>
