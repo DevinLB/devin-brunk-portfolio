@@ -113,6 +113,10 @@
           <h2 class="text-uppercase lined">Contact</h2>
         </header>
         <div class="row">
+        <div class="col-lg-6">
+            <p>Feel free to contact if you have any insights or questions about me what I do</p>
+            
+          </div>
           <div class="col-lg-6">
             <form action="" class="contact-form">
               <div class="row">
@@ -138,20 +142,13 @@
               </div>
             </form>
           </div>
-          <div class="col-lg-6">
-            <p>Effects present letters inquiry no an removed or friends. Desire behind latter me though in. Supposing shameless am he engrossed up additions. My possible peculiar together to. Desire so better am cannot he up before points. Remember mistaken opinions it pleasure of debating. Court front maids forty if aware their at. Chicken use are pressed removed.</p>
-            <p>Able an hope of body. Any nay shyness article matters own removal nothing his forming. Gay own additions education satisfied the perpetual. If he cause manor happy. Without farther she exposed saw man led. Along on happy could cease green oh.</p>
-            <ul class="mb-0 list-inline text-center">
-              <li class="list-inline-item"><a href="#" class="social-link social-link-facebook"><i class="fab fa-facebook-f"></i></a></li>
-              <li class="list-inline-item"><a href="#" class="social-link social-link-twitter"><i class="fab fa-twitter"></i></a></li>
-              <li class="list-inline-item"><a href="#" class="social-link social-link-google-plus"><i class="fab fa-google-plus-g"></i></a></li>
-              <li class="list-inline-item"><a href="#" class="social-link social-link-instagram"><i class="fab fa-instagram"></i></a></li>
-              <li class="list-inline-item"><a href="#" class="social-link social-link-email"><i class="fas fa-envelope"></i></a></li>
-            </ul>
-          </div>
+          
         </div>
       </div>
     </section>
+
+
+    
     <footer class="py-4">
       <div class="container">
         <div class="row">
